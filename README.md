@@ -1,6 +1,6 @@
 # First_half_project_using-Mediapipe
 ```
-python
+--python--
 import cv2
 import mediapipe as mp
 
