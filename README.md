@@ -1,5 +1,6 @@
 # First_half_project_using-Mediapipe
-
+'''
+python
 import cv2
 import mediapipe as mp
 
@@ -45,3 +46,4 @@ with mp_face_mesh.FaceMesh(
       break
   
 cap.release()
+'''
